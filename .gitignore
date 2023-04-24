@@ -4,3 +4,5 @@ suno_bark.egg-info
 build
 references
 
+*.wav
+_temp/
