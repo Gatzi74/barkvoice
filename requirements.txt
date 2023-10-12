@@ -1,0 +1,9 @@
+numpy
+codec
+funcy
+scipy
+tqdm
+transformers
+fairseq
+tensorboardX
+audiolm_pytorch
