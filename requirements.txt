@@ -1,5 +1,5 @@
 numpy
-codec
+encodec
 funcy
 scipy
 tqdm
